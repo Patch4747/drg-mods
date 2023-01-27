@@ -11,6 +11,8 @@ Ideas are organized in [Issues](https://github.com/Patch4747/drg-mods/issues).
 5. After resolving any issues with your branch, the project lead will merge with `main` and you will see your mod added to the project! 
 
 ## Helpful links
-* [DRG mod repository](https://mod.io/g/drg)
 * [DRG's Basic Modding Guide](https://mod.io/g/drg/r/drg-basic-modding-guide)
+    * Primary reference for development workflow and tools
+* [DRG mod repository](https://mod.io/g/drg)
+    * Take a look at existing mods. Other guides here too.
 * [DRG Modding Discord](https://discord.gg/zQMKGTStfa)
