@@ -1,3 +1,3 @@
 # Visual Mods
 
-Mods that make visual changes to the game.
+Mods that will make visual changes to the game

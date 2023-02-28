@@ -1,3 +1,3 @@
 # Gameplay Mods
 
-Mods that change how you play or how the game will work.
+Mods that change how you play or how the game will works
