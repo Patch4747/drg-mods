@@ -1,3 +1,3 @@
-# Images
+# Visual Mods
 
-Images of mods so that they can be viewed easily on GitHub
+Mods that will make visual changes to the game
