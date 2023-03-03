@@ -1,6 +1,6 @@
 # Gameplay Mods
 
-Mods that change how you play or how the game will works
+Mods that change how the game works or plays
 
 ## Increased Flamethrower Range - v0.0
 **DRG Version:** U34  
