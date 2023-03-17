@@ -11,10 +11,10 @@ Ideas are organized in [Issues](https://github.com/Patch4747/drg-mods/issues).
 5. After resolving any issues with your branch, the project lead will merge with `main` and you will see your mod added to the project! 
 
 ## Using a mod
-1. Download the desired .pak file
-2. Now put the .pak file in the Paks directory in the game files. To get here, you can either go to C:\Program Files (x86)\Steam\steamapps\common\Deep Rock Galactic\FSD\Content\Paks OR right click on the Deep Rock Galactic on Steam, under manage select "Browse local files". Then you can navigate to the Paks directory from there.
-3. If DRG is currently running, exit and re-open the game
-4. Upon opening the game, you will see a prompt about using mods. Follow the instructions
+1. Download the desired `.pak` file from this repo. 
+2. Now put the `.pak` file in the `Paks` directory in the game files. To get here, you can either go to `C:\Program Files (x86)\Steam\steamapps\common\Deep Rock Galactic\FSD\Content\Paks` (on Windows) OR right click on the Deep Rock Galactic on Steam, under `Manage` select `"Browse local files"`. Then you can navigate to the `Paks` directory from there.
+3. If DRG is currently running, exit and re-open the game.
+4. Upon opening the game, you will see a prompt about using mods. Follow the instructions.
 5. Now, you are free to enjoy your mod!
 
 ## Helpful links
