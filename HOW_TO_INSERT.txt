@@ -1,0 +1,4 @@
+-download the laser_sword_pickaxe.pak
+-browse local file
+-put the .pak into FAD-Mods-TestMod
+-enough your game
